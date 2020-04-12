@@ -1,4 +1,4 @@
-# Project Continuous Control
+# Project Collaboratin and Competition
 ---
 
 This project works with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
